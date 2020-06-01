@@ -3,7 +3,9 @@ Rencana Konten WPU
 - Video tentang javascript
   - ES6
   - Framework
-- Struktur Data Dasar
+    > Angular
+    > React
 - PHP Framework
+  > Laravel
 - Interview
 - Bikin Vlog
