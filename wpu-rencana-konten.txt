@@ -1,6 +1,8 @@
 Rencana Konten WPU
 
 - Video tentang javascript
+  - ES6
+  - Framework
 - PHP Framework
 - Interview
 - Bikin Vlog
